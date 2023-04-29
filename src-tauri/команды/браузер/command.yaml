@@ -1,7 +1,7 @@
 list:
 - command:
     action: ahk
-    exe_path: ahk/Run browser.exe
+    exe_path: ahk/Run browser.ahk
     exe_args:
   voice:
     sounds:
